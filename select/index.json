@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Blinding Lights",
+  "base_artist": "The Weeknd",
+  "createdAt": "2025-12-14T11:10:49.562752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/01_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "City of Blinding Lights",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/02_City_of_Blinding_Lights_U2.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "City of Blinding Lights (Filo & Peri vs. Giuseppe Ottaviani remix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/03_City_of_Blinding_Lights_(Filo_&_Peri_vs._Giuseppe_Ottaviani_remix)_U2.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "City of Blinding Lights (2005 Live from Milan)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/04_City_of_Blinding_Lights_(2005_Live_from_Milan)_U2.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blinding Lights - Chromatics Remix",
+      "artist": "The Weeknd feat. Chromatics & Johnny Jewel",
+      "has_synced": true,
+      "path": "select/06_Blinding_Lights_-_Chromatics_Remix_The_Weeknd_feat._Chromatics_&_Johnny_Jewel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blinding Lights (Chromatics Remix)",
+      "artist": "The Weeknd, Chromatics",
+      "has_synced": true,
+      "path": "select/07_Blinding_Lights_(Chromatics_Remix)_The_Weeknd,_Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/09_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blinding Lights (with ROSALÍA) - Remix",
+      "artist": "The Weeknd feat. ROSALÍA",
+      "has_synced": true,
+      "path": "select/10_Blinding_Lights_(with_ROSALÍA)_-_Remix_The_Weeknd_feat._ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blinding Lights (Remix)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/11_Blinding_Lights_(Remix)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/12_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blinding Lights (Chromatics remix)",
+      "artist": "The Weeknd feat. Chromatics",
+      "has_synced": true,
+      "path": "select/13_Blinding_Lights_(Chromatics_remix)_The_Weeknd_feat._Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blinding Lights (Major Lazer Remix) [feat. Major Lazer]",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/14_Blinding_Lights_(Major_Lazer_Remix)_[feat._Major_Lazer]_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/15_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "City Of Blinding Lights",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/16_City_Of_Blinding_Lights_U2.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/18_Blinding_Lights_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Blinding Lights (Acapella)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/19_Blinding_Lights_(Acapella)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Blinding",
+      "artist": "Babyshambles",
+      "has_synced": true,
+      "path": "select/20_The_Blinding_Babyshambles.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Blinding",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/21_Blinding_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Love Is Blinding",
+      "artist": "The High Violets",
+      "has_synced": true,
+      "path": "select/22_Love_Is_Blinding_The_High_Violets.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Blinding Tears Will Break The Skies",
+      "artist": "Trivium",
+      "has_synced": true,
+      "path": "select/23_Blinding_Tears_Will_Break_The_Skies_Trivium.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Blinding Sun",
+      "artist": "Mudhoney",
+      "has_synced": true,
+      "path": "select/24_Blinding_Sun_Mudhoney.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "My Emotions Are Blinding",
+      "artist": "Tennis",
+      "has_synced": true,
+      "path": "select/25_My_Emotions_Are_Blinding_Tennis.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Blinding Indigo",
+      "artist": "Masayoshi Soken",
+      "has_synced": true,
+      "path": "select/26_Blinding_Indigo_Masayoshi_Soken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_Blinding_Lights_The_Weeknd.txt"
+    }
+  ]
+}
